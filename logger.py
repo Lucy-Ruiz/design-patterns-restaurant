@@ -3,6 +3,6 @@ class Logger:
         self.transaction_count = int(transaction_count)
         self.daily_sales = int(daily_sales)
 
+#This method requires a that order is a type Order
     def log_transaction(self, order, number):
-        self.order = order
-        self.number = int(number)
+        pass

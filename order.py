@@ -1,9 +1,4 @@
 class Order: 
-    def __init__(self):
-        pass
-
-    def dish_name(self, dish_name):
+    def __init__(self, dish_name, price):
         self.dish_name = dish_name
-
-    def price(self, price):
-        self.price = int(price)
+        self.price = price
