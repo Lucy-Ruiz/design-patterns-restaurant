@@ -1,0 +1,9 @@
+
+        Your order number 1 of Maki from 78 for 18. 
+        Total so far 18
+
+        Your order number 2 of Nigiri from 78 for 8. 
+        Total so far 26
+
+        Your order number 3 of Miso from 78 for 3. 
+        Total so far 29
